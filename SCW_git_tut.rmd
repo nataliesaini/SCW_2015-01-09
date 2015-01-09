@@ -5,6 +5,8 @@ date: "01/09/2015"
 output: html_document
 ---
 
+Adding text in github
+
 #This is a header
 This is some text
 This is some specific text to *commit*
