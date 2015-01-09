@@ -5,13 +5,6 @@ date: "01/09/2015"
 output: html_document
 ---
 
-#I boke this file by adding this code chunk!!!!
-
-```{r}
-this_function<-get(broken)
-
-```
-
 #This is a header
 This is some text
 This is some specific text to *commit*
